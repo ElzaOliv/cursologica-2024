@@ -18,7 +18,9 @@ public class Variaveis {
 		imprime("Elza");
 		imprime("4505");
 		
-	
+		Integer num =123;
+		imprime(num.toString());
+		
 	}
 
 }
